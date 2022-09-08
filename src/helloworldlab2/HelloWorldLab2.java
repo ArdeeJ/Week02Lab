@@ -16,7 +16,7 @@ public class HelloWorldLab2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Follow me on IG @ardeethemighty");
+        System.out.println("IG @ardeethemighty");
         int a = 1;
         int b = 5;
         int c = a + b;
